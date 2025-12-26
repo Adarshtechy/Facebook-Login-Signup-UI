@@ -39,5 +39,7 @@ It’s a front-end only project designed to replicate the UI/UX of Facebook’s 
    git clone https://github.com/Adarshteq/Facebook-Login-Signup.git
    ```
 2. Open the HTML files in your browser
-   -login.html for the login page
-   -signup.html for the signup page
+
+   login.html for the login page
+   
+   signup.html for the signup page
