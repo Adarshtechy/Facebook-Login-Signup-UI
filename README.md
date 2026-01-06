@@ -1,4 +1,4 @@
-## Facebook Login and Signup Page Clone
+## Facebook Login and Signup Page 
 
 This repository contains a **simple clone of the Facebook login and signup page** built using **HTML and CSS**.
 It’s a front-end only project designed to replicate the UI/UX of Facebook’s authentication page. 
@@ -36,7 +36,7 @@ It’s a front-end only project designed to replicate the UI/UX of Facebook’s 
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/Adarshtechy/Facebook-Auth-UI-Clone.git
+   git clone https://github.com/Adarshtechy/fb-auth-ui.git
    ```
 2. Open the HTML files in your browser
 
